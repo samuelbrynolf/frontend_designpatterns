@@ -1,5 +1,6 @@
 
 // https://github.com/dirkgroenen/jQuery-viewport-checker
+// Dont forget no-js in header for styling-fallback: document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/,'js');
 
 (function($) {
 

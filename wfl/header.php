@@ -1,4 +1,6 @@
 <script type="text/javascript">
+    document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/,'js wfl');
+
     WebFontConfig = {
         google: {
             families: [ 'Open+Sans::latin' ]
